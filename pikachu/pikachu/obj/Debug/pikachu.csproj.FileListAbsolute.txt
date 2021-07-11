@@ -1,0 +1,10 @@
+D:\Csharp\gamePikachu\pikachu\pikachu\bin\Debug\pikachu.exe.config
+D:\Csharp\gamePikachu\pikachu\pikachu\bin\Debug\pikachu.exe
+D:\Csharp\gamePikachu\pikachu\pikachu\bin\Debug\pikachu.pdb
+D:\Csharp\gamePikachu\pikachu\pikachu\obj\Debug\pikachu.csproj.AssemblyReference.cache
+D:\Csharp\gamePikachu\pikachu\pikachu\obj\Debug\pikachu.Properties.Resources.resources
+D:\Csharp\gamePikachu\pikachu\pikachu\obj\Debug\pikachu.csproj.GenerateResource.cache
+D:\Csharp\gamePikachu\pikachu\pikachu\obj\Debug\pikachu.csproj.CoreCompileInputs.cache
+D:\Csharp\gamePikachu\pikachu\pikachu\obj\Debug\pikachu.exe
+D:\Csharp\gamePikachu\pikachu\pikachu\obj\Debug\pikachu.pdb
+D:\Csharp\gamePikachu\pikachu\pikachu\obj\Debug\pikachu.Form1.resources
